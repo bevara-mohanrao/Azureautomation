@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-13T22:54:19 EST" name="Suite" finished-at="2023-11-13T22:54:55 EST" duration-ms="35763">
+    <groups>
+    </groups>
+    <test started-at="2023-11-13T22:54:19 EST" name="Test" finished-at="2023-11-13T22:54:55 EST" duration-ms="35763">
+      <class name="SamplePackage.dropdownprogram">
+        <test-method signature="dropdownprograms()[pri:0, instance:SamplePackage.dropdownprogram@3ce1e309]" started-at="2023-11-13T22:54:45 EST" name="dropdownprograms" finished-at="2023-11-13T22:54:55 EST" duration-ms="9640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownprograms -->
+      </class> <!-- SamplePackage.dropdownprogram -->
+      <class name="SamplePackage.getwindowhandles">
+        <test-method signature="getwindowhandle()[pri:0, instance:SamplePackage.getwindowhandles@6c80d78a]" started-at="2023-11-13T22:54:19 EST" name="getwindowhandle" finished-at="2023-11-13T22:54:29 EST" duration-ms="9949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getwindowhandle -->
+      </class> <!-- SamplePackage.getwindowhandles -->
+      <class name="SamplePackage.Dropdownautonotations">
+        <test-method signature="Dropdownautonotation()[pri:0, instance:SamplePackage.Dropdownautonotations@71809907]" started-at="2023-11-13T22:54:29 EST" name="Dropdownautonotation" finished-at="2023-11-13T22:54:45 EST" duration-ms="16135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdownautonotation -->
+      </class> <!-- SamplePackage.Dropdownautonotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
