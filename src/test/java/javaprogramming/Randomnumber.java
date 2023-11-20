@@ -5,7 +5,7 @@ public class Randomnumber {
 
 	public static void main(String[] args) {
 
-		Random rand = new Random();
+		/*Random rand = new Random();
 		
 		int randnum = rand.nextInt(500);
 
@@ -17,7 +17,7 @@ public class Randomnumber {
 
 		//Method 2 to use direct with math.
 			
-			System.out.println(Math.random());
+			System.out.println(Math.random()); */
 			
 			
 			
