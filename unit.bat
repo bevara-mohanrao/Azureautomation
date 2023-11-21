@@ -1,1 +1,1 @@
-echo 'Unit testing Completed successfully at || : %date% : %date% '
+echo 'Unit testing Completed successfully at || : %date% : %time% '
