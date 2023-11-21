@@ -1,1 +1,1 @@
-echo 'Build Completed successfully at || : %date% : %date% '
+echo 'Build Completed successfully at || : %date% : %time%'
