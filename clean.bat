@@ -1,1 +1,1 @@
-echo 'Clean process Completed successfully at || : %date% : %date% '
+echo 'Clean process Completed successfully at || : %date% : %time%'
